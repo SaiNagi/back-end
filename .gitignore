@@ -1,0 +1,5 @@
+pacakge-lock.json
+node_modules/*
+.idea/*
+
+images/*
