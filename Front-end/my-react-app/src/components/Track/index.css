@@ -1,0 +1,27 @@
+.track {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.track-cont {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+}
+
+input {
+  width: 80vw;
+  padding: 10px;
+  border-radius: 8px;
+}
+button {
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: chocolate;
+  border: none;
+  outline: pointer;
+}
